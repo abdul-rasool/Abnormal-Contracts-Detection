@@ -9,7 +9,7 @@ This work proposes a new robust method for identifying abnormal contract account
 The following paper based on the results of these repository is under review in an SCI journal.   
 
 
->[#A Feature-Based Robust Method for Abnormal Contracts Detection in Ethereum Blockchain]  
+# A Feature-Based Robust Method for Abnormal Contracts Detection in Ethereum Blockchain
 
 
 
