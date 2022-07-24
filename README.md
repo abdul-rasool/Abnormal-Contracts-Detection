@@ -4,9 +4,9 @@ This work proposes a new robust method for identifying abnormal contract account
 \
 \
 \
+
 > Note: Due to huge volume of the dataset, the link of our dataset generated during the current study is available at:
 https://drive.google.com/u/1/uc?export=download&confirm=hPyP&id=1izK9Sm5yfwq3Ck9f71SUXAL41GVKQFBS
-
 \
 \
 \
