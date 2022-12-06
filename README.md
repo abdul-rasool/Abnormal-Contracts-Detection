@@ -11,7 +11,13 @@ https://drive.google.com/u/1/uc?export=download&confirm=hPyP&id=1izK9Sm5yfwq3Ck9
 \
 **Citation Request:** 
 
-The following paper based on the results of this repository is under review in an SCI journal.   
+**Citation Request:** 
+
+Aljofey, Ali, Abdur Rasool, Qingshan Jiang, and Qiang Qu. 2022. "A Feature-Based Robust Method for Abnormal Contracts Detection in Ethereum Blockchain" Electronics 11, no. 18: 2937. https://doi.org/10.3390/electronics11182937.
+
+
+
+>[Online Published Paper](https://www.researchgate.net/publication/363655587_A_Feature-Based_Robust_Method_for_Abnormal_Contracts_Detection_in_Ethereum_Blockchain) 
 
 
 # A Feature-Based Robust Method for Abnormal Contracts Detection in Ethereum Blockchain
